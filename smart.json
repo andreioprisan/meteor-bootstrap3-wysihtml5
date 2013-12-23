@@ -1,9 +1,9 @@
 {
     "name": "bootstrap3-wysihtml5",
-    "description": "Wysiwyg Bootstrap3 HTML5 editor - wysihtml5",
+    "description": "bootstrap3 wysiwyg HTML5 editor for meteor",
     "homepage": "https://github.com/andreioprisan/meteor-bootstrap3-wysihtml5",
     "author": "Andrei Oprisan (http://oprisan.com)",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "git": "https://github.com/andreioprisan/meteor-bootstrap3-wysihtml5.git",
     "packages":{}
 }
